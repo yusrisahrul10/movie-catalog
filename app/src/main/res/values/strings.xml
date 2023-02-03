@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatalogMovie</string>
+    <string name="title_des_poster">poster</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="title_trailer">Trailer</string>
+    <string name="title_description">Description</string>
+    <string name="title_videos">Videos</string>
+    <string name="todo">TODO</string>
+    <string name="title_review">Review</string>
+    <string name="no_data_video">No data video</string>
+    <string name="no_data_review">No data review</string>
+</resources>
